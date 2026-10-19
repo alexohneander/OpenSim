@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ghcr.io/alexohneander/opensim
   pullPolicy: Always
-  tag: sha-7578a852cd75173ae6e063cb63f488572e843ef1
+  tag: sha-a671733fc2ab1a774b56878095a72d4330b8e6be
 
 imagePullSecrets: []
 nameOverride: ""

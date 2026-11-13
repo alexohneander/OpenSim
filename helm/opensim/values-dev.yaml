@@ -1,4 +1,6 @@
 replicaCount: 1
+worker:
+  replicaCount: 1
 
 image:
   repository: ghcr.io/alexohneander/opensim

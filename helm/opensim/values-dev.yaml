@@ -5,7 +5,7 @@ worker:
 image:
   repository: ghcr.io/alexohneander/opensim
   pullPolicy: Always
-  tag: sha-2ba4b372142419fb9dc648d38ac578cd76cdce81
+  tag: sha-ddbeb6d4f2538d7a4e59cf1308c359d745661441
 
 imagePullSecrets: []
 nameOverride: ""
